@@ -14,5 +14,5 @@ fastapi dev
 # set up database
 installed postgres
 with 
-pass -> postgres@123
+pass ->   
 port -> 5432
